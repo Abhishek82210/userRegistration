@@ -31,7 +31,6 @@ A full-stack user registration system with robust validation, exception handling
 | Spring Boot | REST API framework |
 | Spring Data JPA | Database operations |
 | H2 Database | Embedded database |
-| Lombok | Boilerplate reduction |
 | Spring Validation | Request validation |
 
 ### Frontend
