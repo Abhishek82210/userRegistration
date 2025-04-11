@@ -1,0 +1,25 @@
+# React - registration-frontend
+registration-frontend/node_modules/
+registration-frontend/build/
+registration-frontend/.env
+
+# Spring Boot - registration-system
+registration-system/target/
+registration-system/.mvn/
+registration-system/.classpath
+registration-system/.project
+registration-system/.settings/
+registration-system/.idea/
+registration-system/*.iml
+
+# Logs
+*.log
+
+# OS and Editor Files
+.DS_Store
+Thumbs.db
+
+# IntelliJ / VS Code
+.vscode/
+*.swp
+*.swo
