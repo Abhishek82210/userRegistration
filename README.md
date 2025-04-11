@@ -1,9 +1,11 @@
 # Registration System with Spring Boot and React
 
 A full-stack user registration system with robust validation, exception handling, and responsive UI.
+![Screenshot 2025-04-11 130407](https://github.com/user-attachments/assets/8a6a5130-7cf4-4284-a5e9-f3629a0f242d)
+![Screenshot 2025-04-11 130530](https://github.com/user-attachments/assets/4e67eb2a-f275-463b-a6e4-4601987f9cda)
 
-[C:\Users\abhis\Pictures\Screenshots\Screenshot 2025-04-11 130407.png]
-[C:\Users\abhis\Pictures\Screenshots\Screenshot 2025-04-11 130530.png]
+
+
 
 ## Features
 
@@ -50,8 +52,9 @@ A full-stack user registration system with robust validation, exception handling
 
 ## Installation
 
-### 1. Clone Repository
 ```bash
+1. Clone Repository
+
 git clone https://github.com/yourusername/registration-system.git
 cd registration-system
 
